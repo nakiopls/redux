@@ -24,6 +24,11 @@
       "nombre": "fox",
       "precio": 99999,
       "id": 5
+    },
+    {
+      "nombre": "postree",
+      "precio": 10000,
+      "id": 6
     }
   ]
 }
