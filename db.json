@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de pomelo",
+      "precio": "1500"
+    },
+    {
+      "id": 2,
+      "nombre": "awa de uwu",
+      "precio": "99999"
+    },
+    {
+      "nombre": "Jugo de manzana",
+      "precio": "3000",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye ",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "fox",
+      "precio": 99999,
+      "id": 5
+    }
+  ]
+}
